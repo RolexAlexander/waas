@@ -1,0 +1,6 @@
+{
+  "name": "WaaS - Workforce as a Service",
+  "description": "An agentic AI framework for simulating collaborative organizations. Define roles, tasks, and let autonomous agents work together to achieve complex goals, inspired by systems like ChatDev.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
