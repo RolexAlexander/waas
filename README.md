@@ -7,7 +7,7 @@ WaaS is a sophisticated, browser-based framework built with React and TypeScript
 
 The entire simulation runs in your browser, using IndexedDB for session persistence and the Gemini API for agent intelligence.
 
-![WaaS Simulation Screenshot](/public/screenshot.png)
+![WaaS Simulation Screenshot](/public/waas.png)
 
 ---
 
