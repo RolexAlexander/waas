@@ -96,8 +96,8 @@ Follow these steps to run the WaaS application locally.
     -   A Google Gemini API Key.
 
 2.  **Setup**:
-    -   Clone the repository: `git clone <repository-url>`
-    -   Navigate to the project directory: `cd waas-project`
+    -   Clone the repository: `git clone https://github.com/RolexAlexander/waas.git`
+    -   Navigate to the project directory: `cd waas`
     -   Install dependencies: `npm install`
 
 3.  **API Key Configuration**:
